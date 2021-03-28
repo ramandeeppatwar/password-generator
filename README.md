@@ -30,4 +30,4 @@ https://ramandeeppatwar.github.io/random-password-generator/
 
 
 
-<img src="C:\Users\Purp\Documents\random-password-generator\RPG.png" alt="RPG" style="zoom:60%;" /># password-generator
+<assets/img>
