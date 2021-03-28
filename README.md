@@ -30,4 +30,4 @@ https://ramandeeppatwar.github.io/random-password-generator/
 
 
 
-<assets/img>
+![screenshot](assets/img.png)
